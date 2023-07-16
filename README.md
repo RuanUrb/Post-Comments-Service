@@ -11,5 +11,5 @@ Features:
 - Events service
 - Client
 
-Would you try to run it locally, first go `npm install` in each service directory.
+Would you try to run it locally, first go `npm install` in each service directory, then `npm start`. 
  
